@@ -75,7 +75,7 @@ app.get("/callback", async (req, res) => {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: new URLSearchParams({
-        client_id: "1507490653905354996",
+        client_id: "1508173505844215989",
         client_secret: process.env.CLIENT_SECRET,
         grant_type: "authorization_code",
         code,
