@@ -1,6 +1,6 @@
 const CLIENT_ID = "1507490653905354996"
 
-const REDIRECT = encodeURIComponent("http://45.13.236.245:25895/callback")
+const REDIRECT = encodeURIComponent("https://bonplann-verif.onrender.com/callback")
 
 const URL =
   `https://discord.com/oauth2/authorize` +
