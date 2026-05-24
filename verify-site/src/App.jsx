@@ -1,7 +1,7 @@
 const CLIENT_ID = "1507490653905354996"
 
 const REDIRECT = encodeURIComponent(
-  "http://localhost:5173/callback"
+  "https://bonplan-verif.onrender.com"
 )
 
 const URL =
